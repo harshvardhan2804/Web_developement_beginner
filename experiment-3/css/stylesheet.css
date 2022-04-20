@@ -1,0 +1,27 @@
+
+/* external css */
+
+body{
+  margin:0;
+  padding: 0;
+}
+
+h2{
+  margin:0;
+  padding:0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+
+h3{
+  font-size: 3rem;
+  margin:0;
+  padding:0;
+  text-decoration: underline;
+}
+
+.intro{
+  background-color:#F2FA5A;
+  margin-top:0;
+  padding:0;
+}
