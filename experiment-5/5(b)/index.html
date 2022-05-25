@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This example uses the HTML DOM to assign an "onload" event to an iframe element of a panda image.</p>
+
+<iframe id="myFrame" src="images/panda_img.jpeg"></iframe>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("myFrame").onload = function() {myFunction()};
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Iframe is loaded.";
+}
+</script>
+
+</body>
+</html>
