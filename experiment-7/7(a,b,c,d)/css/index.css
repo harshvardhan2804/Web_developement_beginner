@@ -1,0 +1,17 @@
+h1{
+  color: green;
+  background-color: yellow;
+  font-size: 30px;
+}
+
+h2{
+  color: orange;
+  background-color: red;
+  font-size: 40px;
+}
+
+h3{
+  color: pink;
+  background-color: black;
+  font-size: 50px;  
+}

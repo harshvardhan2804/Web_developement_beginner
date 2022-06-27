@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>test</title>
+  </head>
+  <body>
+    <button type="button" name="button" onclick="divide(4,2)">click me</button>
+    <script>
+
+      // function divide(arg1,arg2) {
+      //   if(arg2==0){
+      //     alert("invalid input");
+      //   }
+      //   else{
+      //     let quotient = arg1/arg2;
+      //     let remainder = arg1%arg2;
+      //     alert(remainder);
+      //     alert(quotient);
+      //   }
+      //
+      // }
+
+      function printDigits(arg1){
+        let arg2=arg1;
+        let count=0;
+        while (arg1>0) {
+          count++;
+          arg1=arg1/10;
+        }
+
+        while(count>=0){
+          let res=0;
+
+          res = arg2% math.pow(10,count);
+          console.log(res);
+          count--;
+      }
+
+    </script>
+  </body>
+</html>

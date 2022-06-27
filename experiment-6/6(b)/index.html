@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>test</title>
+</head>
+
+<body>
+  <form name="myform" method="post" action="abc.jsp" onsubmit="return validateform()">
+    Name: <input type="text" name="name"><br />
+    email: <input type="email" name="email"><br />
+    mobile:<input type="number" name="number">
+    <input type="submit" value="register">
+  </form>
+  <script>
+    function validateform() {
+      var email = document.myform.email.value;
+      var mobile = document.myform.number.value;
+
+      if (email == null || name == "") {
+        alert("email can't be blank");
+        return false;
+      } else if (mobile.length > 10) {
+        alert("mobile must be less than  10 characters long ");
+        return false;
+      }
+    }
+  </script>
+</body>
+
+</html>
