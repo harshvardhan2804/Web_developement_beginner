@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+        function display_image(src, width, height, alt) {
+            var a = document.createElement("img");
+            a.src = src;
+            a.width = width;
+            a.height = height;
+            a.alt = alt;
+            document.body.appendChild(a);
+        }
+        function muffin() {
+            let muffin = prompt("Please enter the number of muffin", "");
+
+            for (let i = 0; i < muffin; i++) {
+                display_image('images/muffin_img.jpeg', 100, 100, 'muffin');
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <p>Enter the no. of muffins.</p>
+
+    <button onclick="muffin()">click here</button>
+
+</body>
+
+</html>
