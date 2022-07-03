@@ -38,9 +38,8 @@ I.
   
 (f) Layout Tags  and create a web page given below using layout tags and apply CSS accordingly.
  
- #### Experiment 3 (CSS)
- 
- 3. 
+#### Experiment 3 (CSS)
+  
  (a) Apply CSS to change colors of certain text portion, bold, underline and italics certain words in your HTML web page. Also change background color of each paragraph.
 
 (b) Apply CSS properties using inline, Internal and External methods of CSS
@@ -58,5 +57,11 @@ Note-> Cover Maximum Properties of CSS
 
 (g) How to add comments using CSS
 
- 
+ #### Experiment-4(CSS)
+  
+1.(a). How to show the Photo gallary of an Institute using an Image Map.
+  
+(b). Create a table to show your class time-table and use the following properties: height, width,
+border, border-collapse, padding, background-color, color etc as per the requirement.
+
   
