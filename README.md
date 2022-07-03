@@ -38,7 +38,25 @@ I.
   
 (f) Layout Tags  and create a web page given below using layout tags and apply CSS accordingly.
  
-  
+ #### Experiment 3 (CSS)
+ 
+ 3. 
+ (a) Apply CSS to change colors of certain text portion, bold, underline and italics certain words in your HTML web page. Also change background color of each paragraph.
+
+(b) Apply CSS properties using inline, Internal and External methods of CSS
+
+(c) Write all the above styling in CSS in different file (.css) and link it to your webpage such that changes made in CSS file are immediately reflected on the page. Group paragraphs
+
+into single class and add styling information to the class in CSS.
+
+(d) CSS properties: CSS Background(background-color, background-image, background- position, background-repeat, background-attachment), CSS border, CSS display, CSS opacity, CSS font, CSS padding.
+
+Note-> Cover Maximum Properties of CSS
+(e) Create a simple form to submit user input like his name, age, address and favorite subject, movie and singer.
+
+(f) Add few form elements such as radio buttons, check boxes and password field. Add a submit button at last.
+
+(g) How to add comments using CSS
 
  
   
