@@ -65,3 +65,22 @@ Note-> Cover Maximum Properties of CSS
 border, border-collapse, padding, background-color, color etc as per the requirement.
 
  #### Experiment 5 (JavaScript-I)
+  
+  I.
+  (a) Create a form similar to the one in previous experiment. Put validation checks on values entered by the user using JavaScript (such as age should be a value between 1 and 150).
+  
+(b) Write a JavaScript program to display information box as soon as page loads.
+  
+(c) Write a JavaScript program to change background color after 5 seconds of page load.
+  
+(d) Write a JavaScript program to dynamically bold, italic and underline words and phrases based on user actions.
+  
+(e) Write a JavaScript program to display a hidden div (e.g. showing stats of a player when user clicks on his name).
+  
+(f) Embedding javascript in HTML pages.
+  
+(g) WAP to create popup boxes in javascript.
+  
+(h) Program to create a class calculator that contains an overloaded method called "add" to calculate the sum of two integers, two float numbers and, one integer and one float
+
+  
