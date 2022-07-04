@@ -96,4 +96,13 @@ border, border-collapse, padding, background-color, color etc as per the require
   
 (d) Write a script that simulates coin tossing. Let the program toss the coin each time the user clicks the Toss button. Count the frequency and corresponding percentage of each side of the coin appears. Display the results in the form of a table given below
 
+  ## Experiment-7
   
+  I. 
+  (a) Write a simple HTML code incorporating simple tags(paragraph, heading, preforrmatted tags etc) and list tags. Try validating it on validator.w3.org
+  
+  (b) Add suitable header tags and format according to the validator. Validate it successfully.
+  
+  (c) Add CSS file to style your document. Revalidate it using validator.
+  
+  (d) Add links, images and tables. Revalidate it using validator.
