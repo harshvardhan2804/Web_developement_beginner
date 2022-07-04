@@ -10,7 +10,7 @@ Mr. ankit attkan (zvythnam)
 
 ## tasks
 
-#### Experiment 1 (Basics of HTML and CSS)
+## Experiment 1 (Basics of HTML and CSS)
 
 I.
 (a) Create a webpage with HTML describing your department. Use paragraph and list(Ordered, Unordered,Definition list) tags
@@ -24,7 +24,7 @@ I.
 (e) Basic Tags with Example.
 
 
-#### Experiment 2 (Table, Frames , HTML5)
+## Experiment 2 (Table, Frames , HTML5)
 
 2. (a) How to create your class time-table using table tags  and use ofattributes which are associated with table tag.
   
@@ -38,7 +38,7 @@ I.
   
 (f) Layout Tags  and create a web page given below using layout tags and apply CSS accordingly.
  
-#### Experiment 3 (CSS)
+## Experiment 3 (CSS)
   
  (a) Apply CSS to change colors of certain text portion, bold, underline and italics certain words in your HTML web page. Also change background color of each paragraph.
 
@@ -57,14 +57,14 @@ Note-> Cover Maximum Properties of CSS
 
 (g) How to add comments using CSS
 
- #### Experiment-4(CSS)
+ ## Experiment-4(CSS)
   
 1.(a). How to show the Photo gallary of an Institute using an Image Map.
   
 (b). Create a table to show your class time-table and use the following properties: height, width,
 border, border-collapse, padding, background-color, color etc as per the requirement.
 
- #### Experiment 5 (JavaScript-I)
+ ## Experiment 5 (JavaScript-I)
   
   I.
   (a) Create a form similar to the one in previous experiment. Put validation checks on values entered by the user using JavaScript (such as age should be a value between 1 and 150).
@@ -82,5 +82,18 @@ border, border-collapse, padding, background-color, color etc as per the require
 (g) WAP to create popup boxes in javascript.
   
 (h) Program to create a class calculator that contains an overloaded method called "add" to calculate the sum of two integers, two float numbers and, one integer and one float
+
+  ## Experiment 6(Javascript-2)
+  
+  1.(a) Write a script that accomplish each of the following tasks
+  
+       (i) Calculate the integer part of the quotient and integer remainder when integer a is divided by integer b.
+       (ii) Use the part (a) and write a function displayDigits that receives an integer between 1 and 99999 and prints it as a series of digits, each pair of which is separated by two spaces. For example, the integer 4562 should be printed as 4 5 6 2
+  
+(b) Create a college registration form to obtain a users first name, last name, mobile number, e- mail address, submit and cancel button. Now validate the mobile number and email using java script.
+  
+(c) To design the scientific calculator and make event for each button using javascript.
+  
+(d) Write a script that simulates coin tossing. Let the program toss the coin each time the user clicks the Toss button. Count the frequency and corresponding percentage of each side of the coin appears. Display the results in the form of a table given below
 
   
